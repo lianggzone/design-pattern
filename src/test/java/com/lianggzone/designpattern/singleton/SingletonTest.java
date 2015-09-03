@@ -6,6 +6,8 @@ package com.lianggzone.designpattern.singleton;
 
 import org.junit.Test;
 
+import com.lianggzone.designpattern.singleton.template.Singleton;
+
 /**
  * 单例模式——饿汉式
  * @author 粱桂钊

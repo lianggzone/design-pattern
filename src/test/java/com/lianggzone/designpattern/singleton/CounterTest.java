@@ -6,6 +6,8 @@ package com.lianggzone.designpattern.singleton;
 
 import org.junit.Test;
 
+import com.lianggzone.designpattern.singleton.action.counter.Counter;
+
 /**
  * 单例模式——案例(累加器)
  * @author 粱桂钊

@@ -2,7 +2,7 @@
  * Copyright 2013-2015 lianggzone all rights reserved.
  * @license http://www.lianggzone.com/about
  */
-package com.lianggzone.designpattern.singleton;
+package com.lianggzone.designpattern.singleton.action.counter;
 
 /**
  * 单例模式——案例(累加器)

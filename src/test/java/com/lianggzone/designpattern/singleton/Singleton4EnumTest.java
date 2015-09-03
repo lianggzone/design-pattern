@@ -6,6 +6,8 @@ package com.lianggzone.designpattern.singleton;
 
 import org.junit.Test;
 
+import com.lianggzone.designpattern.singleton.template.Singleton4Enum;
+
 /**
  * 单例模式——枚举
  * @author 粱桂钊
