@@ -6,20 +6,20 @@ package com.lianggzone.designpattern.singleton;
 
 import org.junit.Test;
 
-import com.lianggzone.designpattern.singleton.template.Singleton4Enum;
+import com.lianggzone.designpattern.singleton.template.SingletonEnum;
 
 /**
- * 单例模式——枚举
+ * 单例模式【枚举】
  * @author 粱桂钊
  * @since 
  * <p>更新时间: 2015年9月1日  v0.1</p><p>版本内容: 创建</p>
  */
-public class Singleton4EnumTest {
+public class SingletonEnumTest {
 	
 	@Test
 	public void getInstance(){
-		Singleton4Enum s1 = Singleton4Enum.Instance;
-		Singleton4Enum s2 = Singleton4Enum.Instance;
+		SingletonEnum s1 = SingletonEnum.Instance;
+		SingletonEnum s2 = SingletonEnum.Instance;
 		
 		System.out.println("实例对象1："+s1.hashCode());
 		System.out.println("实例对象2："+s2.hashCode());

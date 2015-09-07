@@ -1,11 +1,12 @@
 /*
- * Copyright 2013-2015 lianggzone all rights reserved.
+ * Copyright 2013-2016 lianggzone all rights reserved.
  * @license http://www.lianggzone.com/about
  */
-package com.lianggzone.designpattern.singleton.action.counter;
+package com.lianggzone.designpattern.singleton.action;
 
 /**
- * 单例模式——案例(累加器)
+ * 单例模式
+ * 案例: 累加器
  * @author 粱桂钊
  * @since 
  * <p>更新时间: 2015年9月1日  v0.1</p><p>版本内容: 创建</p>

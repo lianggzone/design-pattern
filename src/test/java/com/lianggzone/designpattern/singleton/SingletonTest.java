@@ -9,7 +9,7 @@ import org.junit.Test;
 import com.lianggzone.designpattern.singleton.template.Singleton;
 
 /**
- * 单例模式——饿汉式
+ * 单例模式【饿汉式】
  * @author 粱桂钊
  * @since 
  * <p>更新时间: 2015年8月31日  v0.1</p><p>版本内容: 创建</p>
