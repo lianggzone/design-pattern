@@ -2,7 +2,12 @@
  * Copyright 2013-2015 lianggzone all rights reserved.
  * @license http://www.lianggzone.com/about
  */
-package com.lianggzone.designpattern.adapter.template;
+package com.lianggzone.designpattern.adapter;
+
+import org.junit.Test;
+
+import com.lianggzone.designpattern.adapter.template.Adapter;
+import com.lianggzone.designpattern.adapter.template.Target;
 
 /**
  * 客户端
@@ -11,7 +16,9 @@ package com.lianggzone.designpattern.adapter.template;
  * <p>更新时间: 2015年9月6日  v0.1</p><p>版本内容: 创建</p>
  */
 public class AdapterClient {
-	public static void main(String[] args) {
+    
+    @Test
+    public void test(){
 		Target target = new Adapter();
 		target.request();		
 	}
