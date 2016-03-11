@@ -1,2 +1,3 @@
 设计模式
 1、单例模式 	com.lianggzone.designpattern.singleton
+2、装饰者模式	com.lianggzone.designpattern.decorator
