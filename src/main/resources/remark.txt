@@ -3,3 +3,4 @@
 2、装饰者模式	com.lianggzone.designpattern.decorator
 3、适配器模式	com.lianggzone.designpattern.adapter
 4、外观模式		com.lianggzone.designpattern.facade
+5、模板方法模式	com.lianggzone.designpattern.template
