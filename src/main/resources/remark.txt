@@ -1,3 +1,5 @@
 设计模式
 1、单例模式 	com.lianggzone.designpattern.singleton
 2、装饰者模式	com.lianggzone.designpattern.decorator
+3、适配器模式	com.lianggzone.designpattern.adapter
+4、外观模式		com.lianggzone.designpattern.facade
