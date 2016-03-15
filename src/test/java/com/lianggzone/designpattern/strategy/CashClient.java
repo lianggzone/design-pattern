@@ -2,7 +2,12 @@
  * Copyright 2013-2015 lianggzone all rights reserved.
  * @license http://www.lianggzone.com/about
  */
-package com.lianggzone.designpattern.strategy.action.promotion;
+package com.lianggzone.designpattern.strategy;
+
+import org.junit.Test;
+
+import com.lianggzone.designpattern.strategy.action.promotion.CashContext;
+import com.lianggzone.designpattern.strategy.action.promotion.HalfCashStrategy;
 
 /**
  * CashClient
@@ -12,7 +17,8 @@ package com.lianggzone.designpattern.strategy.action.promotion;
  */
 public class CashClient {
 
-	public static void main(String[] args) {
+    @Test
+    public void test(){
 		CashContext cash = new CashContext(new HalfCashStrategy());
 		cash.promotion();
 	}
