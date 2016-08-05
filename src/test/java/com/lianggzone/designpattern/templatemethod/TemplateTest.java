@@ -1,13 +1,9 @@
-/*
- * Copyright 2013-2016 lianggzone all rights reserved.
- * @license http://www.lianggzone.com/about
- */
-package com.lianggzone.designpattern.template;
+package com.lianggzone.designpattern.templatemethod;
 
 import org.junit.Test;
 
-import com.lianggzone.designpattern.template.template.SubClass1;
-import com.lianggzone.designpattern.template.template.SubClass2;
+import com.lianggzone.designpattern.templatemethod.template.SubClass1;
+import com.lianggzone.designpattern.templatemethod.template.SubClass2;
 
 /**
  * 模板方法模式
