@@ -1,7 +1,3 @@
-/*
- * Copyright 2013-2016 lianggzone all rights reserved.
- * @license http://www.lianggzone.com/about
- */
 package com.lianggzone.designpattern.decorator.template;
 
 /**
@@ -12,5 +8,5 @@ package com.lianggzone.designpattern.decorator.template;
  */
 public abstract class Component {
 
-    public abstract void methodA();
+    public abstract void execute();
 }

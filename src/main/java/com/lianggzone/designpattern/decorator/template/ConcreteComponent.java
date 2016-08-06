@@ -1,7 +1,3 @@
-/*
- * Copyright 2013-2016 lianggzone all rights reserved.
- * @license http://www.lianggzone.com/about
- */
 package com.lianggzone.designpattern.decorator.template;
 
 /**
@@ -13,11 +9,10 @@ package com.lianggzone.designpattern.decorator.template;
 public class ConcreteComponent extends Component {
 
     /*
-     * ConcreteComponent是我们将要动态的加上新行为对象，它扩展自
+     * ConcreteComponent是我们将要动态的加上新行为对象
      */
-    
     @Override
-    public void methodA() {
-        System.out.println("ConcreteComponent methodA!");
+    public void execute() {
+        System.out.println("ConcreteComponent method execute!");
     }
 }

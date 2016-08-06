@@ -1,7 +1,3 @@
-/*
- * Copyright 2013-2016 lianggzone all rights reserved.
- * @license http://www.lianggzone.com/about
- */
 package com.lianggzone.designpattern.decorator.template;
 
 /**
@@ -14,8 +10,7 @@ public abstract class Decorator extends Component{
 
     /*
      * 这个是装饰者共同实现的接口
-     */
-    
+     */ 
     private Component component;
     
     public Decorator(Component component){
@@ -23,9 +18,9 @@ public abstract class Decorator extends Component{
     }
 
     @Override
-    public void methodA() {
-        if(component!=null){
-            component.methodA();
+    public void execute() {
+        if(component != null){
+            component.execute();
         }
     }
 }

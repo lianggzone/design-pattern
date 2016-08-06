@@ -1,7 +1,3 @@
-/*
- * Copyright 2013-2016 lianggzone all rights reserved.
- * @license http://www.lianggzone.com/about
- */
 package com.lianggzone.designpattern.decorator.template;
 
 /**
@@ -15,7 +11,6 @@ public class ConcreteDecoratorA extends Decorator{
     /*
      * ConcreteDecoratorA有一个实例变量，可以记录装饰的事物
      */
-    
     private String remark;
     
     public ConcreteDecoratorA(Component component) {

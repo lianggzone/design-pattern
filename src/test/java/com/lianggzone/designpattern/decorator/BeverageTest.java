@@ -1,7 +1,3 @@
-/*
- * Copyright 2013-2016 lianggzone all rights reserved.
- * @license http://www.lianggzone.com/about
- */
 package com.lianggzone.designpattern.decorator;
 
 import org.junit.Test;
