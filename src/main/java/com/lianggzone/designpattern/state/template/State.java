@@ -1,7 +1,3 @@
-/*
- * Copyright 2013-2016 lianggzone all rights reserved.
- * @license http://www.lianggzone.com/about
- */
 package com.lianggzone.designpattern.state.template;
 
 /**
@@ -15,6 +11,5 @@ public interface State {
     /*
      * 定义一个接口，用以封装环境（Context）对象的一个特定的状态所对应的行为。
      */
-    
     public void handle(String param);
 }
