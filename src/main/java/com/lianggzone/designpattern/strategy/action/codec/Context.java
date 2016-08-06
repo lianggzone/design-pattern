@@ -1,10 +1,10 @@
-package com.lianggzone.designpattern.strategy.template;
+package com.lianggzone.designpattern.strategy.action.codec;
 
 /**
  * Context
  * @author 粱桂钊
  * @since 
- * <p>更新时间: 2015年9月2日  v0.1</p><p>版本内容: 创建</p>
+ * <p>更新时间: 2016年8月6日  v0.1</p><p>版本内容: 创建</p>
  */
 public class Context {
 
@@ -14,8 +14,8 @@ public class Context {
 		this.strategy = strategy;
 	}
 	
-	public void execute(){
-		strategy.execute();
+	public void encrypt(){
+		strategy.encrypt();;
 	}
 	
 }

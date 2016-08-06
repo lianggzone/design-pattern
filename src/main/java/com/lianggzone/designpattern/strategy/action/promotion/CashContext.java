@@ -1,7 +1,3 @@
-/*
- * Copyright 2013-2015 lianggzone all rights reserved.
- * @license http://www.lianggzone.com/about
- */
 package com.lianggzone.designpattern.strategy.action.promotion;
 
 /**
@@ -21,5 +17,4 @@ public class CashContext {
 	public void promotion() {
 		this.cashStrategy.promotion();
 	}
-	
 }

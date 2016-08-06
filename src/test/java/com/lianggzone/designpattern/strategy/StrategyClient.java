@@ -1,7 +1,3 @@
-/*
- * Copyright 2013-2015 lianggzone all rights reserved.
- * @license http://www.lianggzone.com/about
- */
 package com.lianggzone.designpattern.strategy;
 
 import org.junit.Test;
@@ -21,9 +17,9 @@ public class StrategyClient {
 	@Test
     public void test(){
 	    Context context = new Context(new StrategyA());
-        context.doSomething();
+        context.execute();
         
         Context context2 = new Context(new StrategyB());
-        context2.doSomething();
+        context2.execute();
     }
 }

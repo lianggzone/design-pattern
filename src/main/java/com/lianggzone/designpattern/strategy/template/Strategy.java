@@ -1,7 +1,3 @@
-/*
- * Copyright 2013-2015 lianggzone all rights reserved.
- * @license http://www.lianggzone.com/about
- */
 package com.lianggzone.designpattern.strategy.template;
 
 /**
@@ -12,5 +8,5 @@ package com.lianggzone.designpattern.strategy.template;
  */
 public abstract class Strategy {
 
-	public abstract void doSomething();
+	public abstract void execute();
 }

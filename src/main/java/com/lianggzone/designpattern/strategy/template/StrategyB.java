@@ -1,7 +1,3 @@
-/*
- * Copyright 2013-2015 lianggzone all rights reserved.
- * @license http://www.lianggzone.com/about
- */
 package com.lianggzone.designpattern.strategy.template;
 
 /**
@@ -13,7 +9,7 @@ package com.lianggzone.designpattern.strategy.template;
 public class StrategyB extends Strategy {
 
 	@Override
-	public void doSomething() {
-		System.out.println("StrategyB doSomething");
+	public void execute() {
+		System.out.println("StrategyB execute!");
 	}
 }
