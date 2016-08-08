@@ -15,3 +15,4 @@
 - 模板方法模式	com.lianggzone.designpattern.templatemethod
 - 策略模式		com.lianggzone.designpattern.strategy
 - 状态模式		com.lianggzone.designpattern.state
+- 责任链模式	com.lianggzone.designpattern.cor	
