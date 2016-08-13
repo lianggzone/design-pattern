@@ -3,6 +3,7 @@
 ### 创建型模式 
 
 - 单例模式 		com.lianggzone.designpattern.singleton
+- 原型模式 		com.lianggzone.designpattern.prototype
 
 ### 结构型模式
 
