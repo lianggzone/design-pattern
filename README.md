@@ -4,6 +4,7 @@
 
 - 单例模式 		com.lianggzone.designpattern.singleton
 - 原型模式 		com.lianggzone.designpattern.prototype
+- 建造者模式 	com.lianggzone.designpattern.builder
 
 ### 结构型模式
 
