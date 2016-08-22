@@ -8,7 +8,8 @@ package com.lianggzone.designpattern.decorator.action.beverage;
  */
 public abstract class Decorator extends Beverage {
 	
-    private Beverage beverage;
+    @SuppressWarnings("unused")
+	private Beverage beverage;
 
     public Decorator(Beverage beverage) {
         this.beverage = beverage;

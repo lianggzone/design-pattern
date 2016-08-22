@@ -10,15 +10,11 @@ import java.io.Serializable;
 
 /**
  * 工作周报模型
- * 
  * @author 粱桂钊
- * @since <p>
- *        更新时间: 2016年8月13日 v0.1
- *        </p>
- *        <p>
- *        版本内容: 创建
- *        </p>
+ * @since 
+ * <p>更新时间: 2016年8月13日 v0.1</p><p>版本内容: 创建</p>
  */
+@SuppressWarnings("serial")
 public class WeeklyLogModel implements Serializable {
 	
 	private AttachmentModel attachment;

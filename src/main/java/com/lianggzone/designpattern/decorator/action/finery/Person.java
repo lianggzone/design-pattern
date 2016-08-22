@@ -8,7 +8,8 @@ package com.lianggzone.designpattern.decorator.action.finery;
  */
 public class Person {
 
-    private String name;
+    @SuppressWarnings("unused")
+	private String name;
     
     public Person(){}
     public Person(String name) {
