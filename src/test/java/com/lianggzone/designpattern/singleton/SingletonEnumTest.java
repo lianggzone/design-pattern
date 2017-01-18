@@ -2,7 +2,7 @@ package com.lianggzone.designpattern.singleton;
 
 import org.junit.Test;
 
-import com.lianggzone.designpattern.singleton.template.SingletonEnum;
+import com.lianggzone.designpattern.singleton.sample.SingletonEnum;
 
 /**
  * 单例模式【枚举】

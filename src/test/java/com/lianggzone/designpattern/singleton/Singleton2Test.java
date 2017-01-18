@@ -2,7 +2,7 @@ package com.lianggzone.designpattern.singleton;
 
 import org.junit.Test;
 
-import com.lianggzone.designpattern.singleton.template.Singleton2;
+import com.lianggzone.designpattern.singleton.sample.Singleton2;
 
 /**
  * 单例模式【懒汉式】
