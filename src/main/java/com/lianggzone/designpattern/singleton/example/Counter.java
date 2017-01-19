@@ -1,11 +1,12 @@
 package com.lianggzone.designpattern.singleton.example;
 
 /**
- * 单例模式
- * 案例: 累加器
+ * <h3>概要:</h3><p>Counter</p>
+ * <h3>功能:</h3><p>单例模式 累加器</p>
+ * <h3>履历:</h3>
+ * <li>2017年1月19日  v0.1 版本内容: 新建</li>
  * @author 粱桂钊
- * @since 
- * <p>更新时间: 2015年9月1日  v0.1</p><p>版本内容: 创建</p>
+ * @since 0.1
  */
 public class Counter {
 
