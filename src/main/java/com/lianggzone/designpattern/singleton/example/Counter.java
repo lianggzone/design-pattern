@@ -1,4 +1,4 @@
-package com.lianggzone.designpattern.singleton.action;
+package com.lianggzone.designpattern.singleton.example;
 
 /**
  * 单例模式
