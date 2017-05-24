@@ -2,7 +2,7 @@ package com.lianggzone.designpattern.builder.example.escaper;
 
 import org.junit.Test;
 
-public class EscapersDemo {
+public class EscapersTest {
 
     @Test
     public void test(){

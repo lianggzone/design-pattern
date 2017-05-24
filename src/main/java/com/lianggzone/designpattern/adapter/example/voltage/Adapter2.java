@@ -12,8 +12,8 @@ public class Adapter2{
 	
 	private CurVoltage curVoltage;
 
-	public Adapter2(CurVoltage curVoltage) {
-		this.curVoltage = curVoltage;
+	public Adapter2() {
+	    curVoltage = new CurVoltage();
 	}
 
 	public void getVoltage(){

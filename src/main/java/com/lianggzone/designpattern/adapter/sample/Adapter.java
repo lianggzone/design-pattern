@@ -1,6 +1,5 @@
 package com.lianggzone.designpattern.adapter.sample;
 
-
 /**
  * <h3>概要:</h3><p>Adapter</p>
  * <h3>功能:</h3><p>类适配器</p>
