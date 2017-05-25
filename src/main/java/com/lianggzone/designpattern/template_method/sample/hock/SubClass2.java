@@ -1,4 +1,4 @@
-package com.lianggzone.designpattern.template_method.sample;
+package com.lianggzone.designpattern.template_method.sample.hock;
 
 /**
  * <h3>概要:</h3><p>SubClass2</p>

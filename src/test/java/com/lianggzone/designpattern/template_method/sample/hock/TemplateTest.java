@@ -1,4 +1,4 @@
-package com.lianggzone.designpattern.template_method.sample;
+package com.lianggzone.designpattern.template_method.sample.hock;
 
 import org.junit.Test;
 
