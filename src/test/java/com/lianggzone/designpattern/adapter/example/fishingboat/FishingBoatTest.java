@@ -17,5 +17,6 @@ public class FishingBoatTest {
         Captain captain = new Captain(new BattleFishingBoat());
         captain.move();
         captain.fire();
+        
 	}
 }
