@@ -1,4 +1,4 @@
-package com.lianggzone.designpattern.singleton.example;
+package com.lianggzone.designpattern.singleton.example.counter;
 
 /**
  * <h3>概要:</h3><p>Counter</p>

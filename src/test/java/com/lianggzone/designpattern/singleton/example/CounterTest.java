@@ -2,7 +2,7 @@ package com.lianggzone.designpattern.singleton.example;
 
 import org.junit.Test;
 
-import com.lianggzone.designpattern.singleton.example.Counter;
+import com.lianggzone.designpattern.singleton.example.counter.Counter;
 
 public class CounterTest {
 

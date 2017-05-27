@@ -1,6 +1,10 @@
 ## 设计模式
 
 ### 创建型模式
+#### 单例模式
+- 文章 ：[暂无]
+- 地址 ： com.lianggzone.designpattern.singleton
+
 #### 建造者模式
 - 文章 ：[暂无]
 - 地址 ： com.lianggzone.designpattern.builder

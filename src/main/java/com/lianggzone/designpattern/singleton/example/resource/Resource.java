@@ -1,4 +1,4 @@
-package com.lianggzone.designpattern.singleton.example;
+package com.lianggzone.designpattern.singleton.example.resource;
 
 /**
  * <h3>概要:</h3><p>Resource</p>

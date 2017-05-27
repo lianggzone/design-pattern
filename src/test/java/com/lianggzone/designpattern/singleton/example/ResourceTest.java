@@ -2,6 +2,8 @@ package com.lianggzone.designpattern.singleton.example;
 
 import org.junit.Test;
 
+import com.lianggzone.designpattern.singleton.example.resource.Resource;
+
 public class ResourceTest {
 
 	@Test

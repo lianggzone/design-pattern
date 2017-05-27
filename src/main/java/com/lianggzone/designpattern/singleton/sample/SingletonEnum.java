@@ -9,6 +9,6 @@ package com.lianggzone.designpattern.singleton.sample;
  * @since 0.1
  */
 public enum SingletonEnum {
-	Instance;
+	INSTANCE;
 	private SingletonEnum(){}
 }
