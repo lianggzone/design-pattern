@@ -13,6 +13,7 @@ public abstract class AbstractClass {
 	public final void templateMethod(){
 		method1();
 		method2();
+		hock();
 	}
 	
 	public void method1(){
