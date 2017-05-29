@@ -4,7 +4,7 @@ import org.junit.Test;
 
 import com.lianggzone.designpattern.builder.example.person.PersonModel3.Builder;
 
-public class PersonTest {
+public class Client {
 
 	@Test
 	public void test1(){

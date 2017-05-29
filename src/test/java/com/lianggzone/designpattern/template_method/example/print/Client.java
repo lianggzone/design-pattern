@@ -1,12 +1,9 @@
 package com.lianggzone.designpattern.template_method.example.print;
 
-import org.junit.Test;
+public class Client {
 
-public class PrintTest {
-
-	@Test
-	public void test(){
-	    AbstractPrint stringPrint = new StringPrint();
+	public static void main(String[] args) {
+		AbstractPrint stringPrint = new StringPrint();
 	    stringPrint.write("梁桂钊");
 		
 		AbstractPrint charPrint = new CharPrint();

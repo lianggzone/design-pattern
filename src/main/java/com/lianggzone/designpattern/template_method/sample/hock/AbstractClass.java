@@ -22,7 +22,6 @@ public abstract class AbstractClass {
 	
 	public abstract void method2();
 	
-	// 这是一个具体的方法，但它什么事情不做
-	// 我们可以有默认不做事的方法，我们称这个方法为“钩子”。子类可以视情况覆盖它。
+	// 这是一个具体的方法，但它什么事情不做,子类可以视情况覆盖它。
 	public void hock(){}
 }

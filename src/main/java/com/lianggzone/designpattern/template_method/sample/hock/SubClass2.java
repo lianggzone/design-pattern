@@ -19,5 +19,4 @@ public class SubClass2 extends AbstractClass{
 	public void hock(){
 		System.out.println("SubClass2 hock invoke!");
 	}
-
 }

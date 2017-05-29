@@ -1,7 +1,5 @@
 package com.lianggzone.designpattern.prototype.example.daily2;
 
-import org.junit.Test;
-
 /**
  * <h3>概要:</h3><p>Client</p>
  * <h3>功能:</h3><p>客户类</p>

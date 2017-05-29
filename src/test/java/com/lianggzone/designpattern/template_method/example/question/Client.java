@@ -1,11 +1,8 @@
 package com.lianggzone.designpattern.template_method.example.question;
 
-import org.junit.Test;
+public class Client {
 
-public class QuestionTest {
-
-	@Test
-	public void test(){
+	public static void main(String[] args) {
 		Question question1 = new QuestionA();
 		question1.make();
 		
