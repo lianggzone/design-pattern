@@ -1,4 +1,4 @@
-package com.lianggzone.designpattern.simple_factory.example.shape;
+package com.lianggzone.designpattern.abstract_factory.example.shape;
 
 /** 
  * <h3>概要:</h3><p>Square</p>
@@ -8,9 +8,6 @@ package com.lianggzone.designpattern.simple_factory.example.shape;
  * @author 粱桂钊
  * @since 0.1
  */
-public class Square extends Shape {
-	@Override
-	public void draw() {
-		System.out.println("正方形");
-	}
+public abstract class Square extends Shape{
+	public abstract void draw();
 }

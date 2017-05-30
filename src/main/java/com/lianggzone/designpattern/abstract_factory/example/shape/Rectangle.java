@@ -1,4 +1,4 @@
-package com.lianggzone.designpattern.factory_method.example.shape;
+package com.lianggzone.designpattern.abstract_factory.example.shape;
 
 /**
  * <h3>概要:</h3><p>Rectangle</p>
@@ -8,9 +8,6 @@ package com.lianggzone.designpattern.factory_method.example.shape;
  * @author 粱桂钊
  * @since 0.1
  */
-public class Rectangle extends Shape {
-	@Override
-	public void draw() {
-		System.out.println("长方形");
-	}
+public abstract class Rectangle extends Shape {
+	public abstract void draw();
 }

@@ -9,8 +9,7 @@ package com.lianggzone.designpattern.simple_factory.sample;
  * @since 0.1
  */
 public class Factory {
-	
-	public void method(){
+	public void getProduct(){
 		// 分支业务处理
 	}
 }

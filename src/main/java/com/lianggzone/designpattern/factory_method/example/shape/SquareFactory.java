@@ -9,7 +9,6 @@ package com.lianggzone.designpattern.factory_method.example.shape;
  * @since 0.1
  */
 public class SquareFactory extends ShapeFactory{
-
 	@Override
 	public Shape createShape() {
 		return new Square();

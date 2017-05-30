@@ -9,7 +9,6 @@ package com.lianggzone.designpattern.simple_factory.example.shape;
  * @since 0.1
  */
 public class Rectangle extends Shape {
-
 	@Override
 	public void draw() {
 		System.out.println("长方形");

@@ -4,6 +4,12 @@
 #### 简单方法模式
 - 地址 ： com.lianggzone.designpattern.simple_factory
 
+#### 简单方法模式
+- 地址 ： com.lianggzone.designpattern.factory_method
+
+#### 简单方法模式
+- 地址 ： com.lianggzone.designpattern.abstract_factory
+
 #### 建造者模式
 - 地址 ： com.lianggzone.designpattern.builder
 

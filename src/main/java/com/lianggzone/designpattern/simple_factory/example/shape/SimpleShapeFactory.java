@@ -9,7 +9,6 @@ package com.lianggzone.designpattern.simple_factory.example.shape;
  * @since 0.1
  */
 public class SimpleShapeFactory {
-
 	public Shape createShape(String shapeType) {
 		if ("CIRCLE".equalsIgnoreCase(shapeType)) {
 			return new Circle();
