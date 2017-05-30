@@ -9,7 +9,6 @@ package com.lianggzone.designpattern.abstract_factory.sample;
  * @since 0.1
  */
 public class ConcreteFactory2 extends AbstractFactory{
-
 	@Override
 	public AbstractProductA createProductA() {
 		return new ConcreteProductA2();
@@ -19,5 +18,4 @@ public class ConcreteFactory2 extends AbstractFactory{
 	public AbstractProductB createProductB() {
 		return new ConcreteProductB2();
 	}
-	
 }

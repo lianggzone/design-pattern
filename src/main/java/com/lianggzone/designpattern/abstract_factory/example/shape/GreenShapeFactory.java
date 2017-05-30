@@ -9,7 +9,6 @@ package com.lianggzone.designpattern.abstract_factory.example.shape;
  * @since 0.1
  */
 public class GreenShapeFactory extends AbstractShapeFactory{
-
 	@Override
 	public Circle createCircle() {
 		return new GreenCircle();
