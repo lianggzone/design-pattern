@@ -1,7 +1,5 @@
 package com.lianggzone.designpattern.adapter.sample;
 
-import org.junit.Test;
-
 /**
  * <h3>概要:</h3><p>Client</p>
  * <h3>功能:</h3><p>客户端</p>
@@ -11,10 +9,9 @@ import org.junit.Test;
  * @since 0.1
  */
 public class Client {
-    
-    @Test
-    public void test(){
+
+	public static void main(String[] args) {
 		Target target = new Adapter();
-		target.request();		
+		target.request();
 	}
 }

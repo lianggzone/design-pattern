@@ -8,10 +8,5 @@ public class Client {
 		blueShapeFactory.createCircle().draw();
 		blueShapeFactory.createRectangle().draw();
 		blueShapeFactory.createSquare().draw();
-		
-		ShapeFactory greenShapeFactory = new ShapeFactory();
-		greenShapeFactory.createCircle().draw();
-		greenShapeFactory.createRectangle().draw();
-		greenShapeFactory.createSquare().draw();	
 	}
 }
