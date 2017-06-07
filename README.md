@@ -1,13 +1,13 @@
 ## 设计模式
 
 ### 项目结构
-#### 简单方法模式
+#### 简单工厂模式
 - 地址 ： com.lianggzone.designpattern.simple_factory
 
-#### 简单方法模式
+#### 工厂方法模式
 - 地址 ： com.lianggzone.designpattern.factory_method
 
-#### 简单方法模式
+#### 抽象工厂模式
 - 地址 ： com.lianggzone.designpattern.abstract_factory
 
 #### 建造者模式
