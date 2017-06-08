@@ -29,3 +29,8 @@
 - 地址 ： com.lianggzone.designpattern.template_method
 
 ### 文章链接
+
+#### 设计模式指南
+<a href="http://blog.720ui.com/2017/design_pattern_singleton/" target="_blank">单例模式 - 只有一个实例</a>
+
+#### 模式大杂烩
