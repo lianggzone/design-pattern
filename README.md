@@ -17,7 +17,7 @@
 ### 文章链接
 
 #### 设计模式指南
-<a href="http://blog.720ui.com/2017/design_pattern_singleton/" target="_blank">单例模式 - 只有一个实例</a>
-<a href="http://blog.720ui.com/2017/design_pattern_singleton_reg/" target="_blank">单例模式 - 单例注册表与 Spring 实现单例剖析</a>
+- [单例模式 - 只有一个实例](http://blog.720ui.com/2017/design_pattern_singleton/)
+- [单例模式 - 单例注册表与 Spring 实现单例剖析](http://blog.720ui.com/2017/design_pattern_singleton_reg/)
 
 #### 模式大杂烩
