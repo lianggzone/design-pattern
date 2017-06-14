@@ -5,13 +5,14 @@
 1. 工厂方法模式 ： com.lianggzone.designpattern.factory_method
 1. 抽象工厂模式 ： com.lianggzone.designpattern.abstract_factory
 1. 建造者模式 ： com.lianggzone.designpattern.builder
-1. 工厂方法模式 ： com.lianggzone.designpattern.factory_method
 1. 原型模式 ： com.lianggzone.designpattern.prototype
 1. 单例模式 ： com.lianggzone.designpattern.singleton
 1. 适配器模式 ： com.lianggzone.designpattern.adapter
 1. 装饰者模式 ： com.lianggzone.designpattern.decorator
 1. 责任链模式 ： com.lianggzone.designpattern.chain
 1. 观察者模式 ： com.lianggzone.designpattern.observer
+1. 状态模式 ： com.lianggzone.designpattern.state
+1. 策略模式 ： com.lianggzone.designpattern.strategy
 1. 模板方法模式 ： com.lianggzone.designpattern.template_method
 
 ### 文章链接
